@@ -1,0 +1,1 @@
+http://api.funceme.br/rest/pcd/dado-sensor?data=2019-02-02%2012:00:00&estacao.codigo=12&sensor.codigo=50&orderBy=data,DESC
